@@ -49,5 +49,7 @@ Please make sure to update tests as appropriate.
 All Pull Request must be made against 'stable' branch
 
 ## License
-Owned by
+[MIT](https://github.com/zetahawke/base_rails_project/blob/master/LICENSE)
+
+## Credits
 [Zetahawke](https://www.github.com/zetahawke/)
