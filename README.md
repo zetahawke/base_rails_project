@@ -1,10 +1,20 @@
-# Alice Project
+# Rails base project
 
-Alice's Importer website project.
+Rails base website project.
 
 ## Description
 
-Alice's Importer are here with her own project made with RoR latest version's framework to give her clients the best way to explore her merchancy.
+This rails project contains:
+- Ruby latest version
+- Rails latest version
+- Devise (default user with email created)
+- Materialize CSS
+- Webpacker with angular
+- All JS and CSS tools implemented
+- Base routes
+- Admin namespace
+- Base layout structure
+- Slim markup instead of Erb
 
 ## Installation
 
@@ -20,7 +30,10 @@ Make sure to have all the necessary stuff to start building this up.
 bundle install
 rake db:create
 rake db:migrate
+yarn install
 ```
+
+Note: Replace all `Rails base project`, `RailsBaseProject` and `rails_base_project` coincidences in order to replace project name.
 
 ## Usage
 
@@ -37,4 +50,4 @@ All Pull Request must be made against 'stable' branch
 
 ## License
 Owned by
-[Importadora Ali](https://www.github.com/zetahawke/)
+[Zetahawke](https://www.github.com/zetahawke/)
